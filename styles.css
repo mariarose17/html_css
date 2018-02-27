@@ -1,0 +1,63 @@
+
+  #heading{
+    
+      color: beige;
+      padding: 20px;
+
+  }
+
+  #butn{
+    color:white;
+    background-color:  black;
+    float: right;
+  }
+
+  .footer {
+   
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:gray;
+    color: black;
+    text-align: left;
+ }
+
+ #submitform
+ {
+   border-style: solid;
+   border-color: black;
+ }
+ .myparagraph{
+   text-align: justify;
+   
+ }
+
+ .welcomediv{
+   padding: 30px;
+   border-style: solid;
+   border-color: black;
+   margin: 5px;
+ }
+
+ .linksdiv{
+  border-style: solid;
+  border-color: black;
+  padding: 30px;
+ }
+
+ .mydiv{
+   margin: 5px;
+ }
+
+ h1,h3{
+   font-weight: bold;
+ }
+
+ .btn{
+   padding-left: 20px;
+   padding-right: 20px;
+ }
+
+ body{
+   overflow-x: hidden;
+ }
